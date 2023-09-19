@@ -196,7 +196,7 @@ def get_posts():
 mmm = 'N4W9B_XD'
 print('')
 
-inn = input(BOLD+CYAN+"[+] Password! :N4W9BXD: ")
+inn = input(BOLD+CYAN+"[+] Password! :: ")
 if mmm in inn:
         print (BOLD+GREEN+'\n Correct ..✓')
         time.sleep(2)
